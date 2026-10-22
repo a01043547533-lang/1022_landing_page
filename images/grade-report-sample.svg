@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title description">
+  <title id="title">고등학교 성적표 예시</title>
+  <desc id="description">실제 학생 정보가 없는 가상 성적표 예시입니다.</desc>
+  <rect width="1200" height="820" fill="#e8e9e1"/>
+  <rect x="50" y="42" width="1100" height="736" fill="#fffefa"/>
+  <path d="M50 42h1100v12H50z" fill="#173a2e"/>
+  <text x="96" y="108" fill="#506359" font-family="sans-serif" font-size="21" font-weight="700" letter-spacing="2">고3 엄마의 입시 시크릿</text>
+  <text x="96" y="172" fill="#1b2c23" font-family="sans-serif" font-size="40" font-weight="700">학업 성취도 한눈에 보기</text>
+  <text x="96" y="210" fill="#78847a" font-family="sans-serif" font-size="19">성적 흐름과 과목별 위치를 함께 확인해 보세요.</text>
+  <rect x="96" y="247" width="1008" height="138" fill="#f2f4ec"/>
+  <text x="128" y="292" fill="#728076" font-family="sans-serif" font-size="18">학생 정보</text>
+  <text x="128" y="337" fill="#24372c" font-family="sans-serif" font-size="25" font-weight="700">가상 학생 · 3학년</text>
+  <path d="M440 270v92" stroke="#d8ded5" stroke-width="2"/>
+  <text x="486" y="292" fill="#728076" font-family="sans-serif" font-size="18">전체 교과 평균 등급</text>
+  <text x="486" y="348" fill="#1d4435" font-family="sans-serif" font-size="48" font-weight="700">3.2</text>
+  <text x="628" y="344" fill="#78847a" font-family="sans-serif" font-size="18">학기별 변화도 함께 살펴보세요</text>
+  <text x="96" y="437" fill="#24372c" font-family="sans-serif" font-size="22" font-weight="700">과목별 성적 예시</text>
+  <rect x="96" y="463" width="1008" height="48" fill="#173a2e"/>
+  <text x="126" y="494" fill="#fffefa" font-family="sans-serif" font-size="17" font-weight="700">과목</text>
+  <text x="352" y="494" fill="#fffefa" font-family="sans-serif" font-size="17" font-weight="700">등급</text>
+  <text x="500" y="494" fill="#fffefa" font-family="sans-serif" font-size="17" font-weight="700">확인할 지점</text>
+  <g font-family="sans-serif" font-size="19">
+    <path d="M96 511h1008M96 566h1008M96 621h1008M96 676h1008" stroke="#dce1d9" stroke-width="2"/>
+    <text x="126" y="548" fill="#29382f">국어</text><text x="352" y="548" fill="#344f3e" font-weight="700">2등급</text><text x="500" y="548" fill="#68766c">강점 과목 · 학생부와 연결</text>
+    <text x="126" y="603" fill="#29382f">수학</text><text x="352" y="603" fill="#344f3e" font-weight="700">4등급</text><text x="500" y="603" fill="#68766c">최근 성적 흐름 확인</text>
+    <text x="126" y="658" fill="#29382f">영어</text><text x="352" y="658" fill="#344f3e" font-weight="700">3등급</text><text x="500" y="658" fill="#68766c">전형별 반영 방식 비교</text>
+  </g>
+  <rect x="96" y="710" width="1008" height="38" fill="#f8f1e7"/>
+  <text x="120" y="735" fill="#80563f" font-family="sans-serif" font-size="16" font-weight="700">가상 예시 · 실제 성적표나 학생의 자료가 아닙니다.</text>
+</svg>
